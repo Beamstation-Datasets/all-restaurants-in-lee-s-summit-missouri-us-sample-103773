@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Market-wide restaurant data for Lee's Summit in the Heartland with a population of over 101k. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
+  "config_name": "All Restaurants in Lee's Summit, Missouri, US",
+  "export_job_id": "cb603aa5-79c3-4495-88e7-0c5edeb210c7",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 103773,
+  "location_name": "Lee's Summit",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-lee-s-summit-missouri-us-sample-103773",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/103773/beamstation_103773_restaurants-us-mo_SAMPLE_DIST.csv",
+  "sample_pct": 9.59,
+  "sample_records": 14,
+  "sample_sha256": "065d78e138d5de491d0488216a82de2b736e404889066e28850700fecded02ba",
+  "sample_size_bytes": 73068,
+  "total_records": 146,
+  "updated_at": "2026-03-31T13:21:57.846694+00:00"
+}
