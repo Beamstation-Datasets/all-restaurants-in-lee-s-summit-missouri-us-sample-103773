@@ -1,0 +1,12 @@
+{
+  "export_job_id": "cb603aa5-79c3-4495-88e7-0c5edeb210c7",
+  "id_short": 103773,
+  "published_at": "2026-04-10T19:04:13Z",
+  "repo_name": "all-restaurants-in-lee-s-summit-missouri-us-sample-103773",
+  "sample_asset_name": "beamstation_103773_restaurants-us-mo_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/103773/beamstation_103773_restaurants-us-mo_SAMPLE_DIST.csv",
+  "sample_records": 14,
+  "sample_sha256": "065d78e138d5de491d0488216a82de2b736e404889066e28850700fecded02ba",
+  "sample_size_bytes": 73068,
+  "total_records": 146
+}
