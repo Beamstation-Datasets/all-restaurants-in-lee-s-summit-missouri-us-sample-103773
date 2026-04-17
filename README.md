@@ -1,6 +1,6 @@
 # All Restaurants in Lee's Summit, Missouri, US
 
-> Free BeamStation sample export with 14 rows and masked direct-contact fields.
+> Free BeamStation sample export with 24 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `103773` |
 | Location | Lee's Summit |
 | Category | Restaurants |
-| Full dataset size | 146 records |
-| Free sample size | 14 records (9.59%) |
-| Last export | 2026-03-31T13:21:57.846694+00:00 |
+| Full dataset size | 247 records |
+| Free sample size | 24 records (9.72%) |
+| Last export | 2026-04-14T13:37:40.041878+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-lee-s-summit-missouri-us-sample-103773/releases/download/sample-latest/beamstation_103773_restaurants-us-mo_SAMPLE_DIST.csv) |
 
 ## What is in this sample
